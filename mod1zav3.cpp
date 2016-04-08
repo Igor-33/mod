@@ -13,7 +13,6 @@ int main() {
     xn=x*2;
     for (x=0;x<xn;x++){ 
     x=(x+(x/100)*a);
-    printf("x%lf", x);
     }
     printf("xn=%lf",xn);
 	printf("year=%d",n);
