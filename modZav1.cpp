@@ -14,8 +14,6 @@ int main()
     dovzina=sqrt((x-a)*(x-a)+(y-b)*(y-b));
     printf("dovzina=%lf", dovzina);
     
-    
-    
     system("PAUSE");
     return 0;
 }
